@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0beff5de-e6e5-4833-bab8-3f8f9deed787" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring_dm/lesson1_setter_constructor_Dependency_Injection_xml/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring_dm/lesson1_setter_constructor_Dependency_Injection_xml/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring_dm/lesson1_setter_constructor_Dependency_Injection_xml/EngineGasoline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring_dm/lesson1_setter_constructor_Dependency_Injection_xml/EngineTurbo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring_dm/lesson1_setter_constructor_Dependency_Injection_xml/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring_dm/lesson1_setter_constructor_Dependency_Injection_xml/info/Описание свойств contextXML.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring_dm/lesson2_Dependency_Lookup_Dependency_Injection/Типы инверсии управления.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring_dm/lesson3_Dependency_injection_annotations/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring_dm/lesson3_Dependency_injection_annotations/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring_dm/lesson3_Dependency_injection_annotations/EngineV12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring_dm/lesson3_Dependency_injection_annotations/EngineV6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring_dm/lesson3_Dependency_injection_annotations/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring_dm/lesson3_Dependency_injection_annotations/info/Spring аннотации.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/lesson1_Context_setter_constructor_xml/Context_example_constructor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/lesson1_Context_setter_constructor_xml/Context_example_setters.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/lesson1_Context_setter_constructor_xml/Context_example_setters_chemaP.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/lesson1_Context_setter_constructor_xml/car.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/lesson3_annotations/Context_component_scan.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/lesson3_annotations/car.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2eYX5NnZvy5OexUasRlu5bwJkpo" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.MainClass.executor": "Run",
+    "Application.com.spring_dm.lesson3_Dependency_injection_annotations.MainClass.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Курсы/Java/Projects/Spring_dm/src/main/resources/lesson3_annotations"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Курсы\Java\Projects\Spring_dm\src\main\resources\lesson3_annotations" />
+      <recent name="C:\Курсы\Java\Projects\Spring_dm\src\main\java\com\spring_dm\lesson3_Dependency_injection_annotations\info" />
+      <recent name="C:\Курсы\Java\Projects\Spring_dm\src\main\resources" />
+      <recent name="C:\Курсы\Java\Projects\Spring_dm\src\main\java\com\spring_dm\Dependency_Lookup_Dependency_Injection" />
+      <recent name="C:\Курсы\Java\Projects\Spring_dm\src\main\java\com\spring_dm\setter_constructor_Dependency_Injection_xml" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Курсы\Java\Projects\Spring_dm\src\main\java\com\spring_dm\setter_constructor_Dependency_Injection_xml\info" />
+      <recent name="C:\Курсы\Java\Projects\Spring_dm\src\main\resources\Context_setter_constructor_xml" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.spring_dm.lesson3_Dependency_injection_annotations" />
+      <recent name="com.spring_dm.DI_setter_xml" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.com.spring_dm.lesson3_Dependency_injection_annotations.MainClass">
+    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.spring_dm.lesson1_setter_constructor_Dependency_Injection_xml.MainClass" />
+      <module name="Spring_dm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.spring_dm.lesson1_setter_constructor_Dependency_Injection_xml.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.spring_dm.lesson3_Dependency_injection_annotations.MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.spring_dm.lesson3_Dependency_injection_annotations.MainClass" />
+      <module name="Spring_dm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.spring_dm.lesson3_Dependency_injection_annotations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.com.spring_dm.lesson3_Dependency_injection_annotations.MainClass" />
+        <item itemvalue="Application.MainClass" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0beff5de-e6e5-4833-bab8-3f8f9deed787" name="Changes" comment="" />
+      <created>1712082302052</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712082302052</updated>
+    </task>
+    <servers />
+  </component>
+</project>

@@ -1,6 +1,7 @@
 package com.spring_dm.lesson3_Dependency_injection_annotations;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.PropertySource;
 import org.springframework.stereotype.Component;
@@ -14,7 +15,7 @@ public class Car {
 
     //////// Constructor ////////
     @Autowired
-    public Car(Engine engine, @Value("${EngineTemp.car:0}") int engineTemp) {
+    public Car(@Qualifier("engineV6") Engine engine, @Value("${EngineTemp.car:0}") int engineTemp) {
         this.engine = engine;
         this.engineTemp = engineTemp;
     }

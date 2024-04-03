@@ -2,7 +2,7 @@ package com.spring_dm.lesson3_Dependency_injection_annotations;
 
 import org.springframework.stereotype.Component;
 
-@Component
+@Component("engineV6")
 public class EngineV6 implements Engine {
     @Override
     public void startEngine() {

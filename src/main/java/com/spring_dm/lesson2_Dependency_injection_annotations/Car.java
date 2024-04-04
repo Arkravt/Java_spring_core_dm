@@ -7,7 +7,7 @@ import org.springframework.context.annotation.PropertySource;
 import org.springframework.stereotype.Component;
 
 @Component
-@PropertySource("classpath:lesson3_annotations/car.properties")
+@PropertySource("classpath:lesson2_annotations/car.properties")
 public class Car {
 
     private Engine engine;

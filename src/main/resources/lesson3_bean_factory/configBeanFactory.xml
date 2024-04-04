@@ -5,6 +5,6 @@
        xsi:schemaLocation="http://www.springframework.org/schema/beans
         http://www.springframework.org/schema/beans/spring-beans.xsd">
 
-    <bean id="testBeanFactory" class="com.spring_dm.lesson4_bean_factory.TestBeanFactory"/>
+    <bean id="testBeanFactory" class="com.spring_dm.lesson3_bean_factory.TestBeanFactory"/>
 
 </beans>

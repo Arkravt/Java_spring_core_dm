@@ -1,4 +1,4 @@
-package com.spring_dm.lesson4_bean_factory;
+package com.spring_dm.lesson3_bean_factory;
 
 public class TestBeanFactory {
     public void someThing() {

@@ -8,7 +8,7 @@
        http://www.springframework.org/schema/context
        http://www.springframework.org/schema/context/spring-context.xsd">
 
-    <context:property-placeholder location="classpath:Context_setter_constructor_xml/car.properties"/>
+    <context:property-placeholder location="lesson1_Context_setter_constructor_xml/car.properties"/>
 
     <bean id="car"
           class="com.spring_dm.lesson1_setter_constructor_Dependency_Injection_xml.Car"

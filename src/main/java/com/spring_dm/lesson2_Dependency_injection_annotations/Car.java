@@ -1,4 +1,4 @@
-package com.spring_dm.lesson3_Dependency_injection_annotations;
+package com.spring_dm.lesson2_Dependency_injection_annotations;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;

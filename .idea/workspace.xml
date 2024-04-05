@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0beff5de-e6e5-4833-bab8-3f8f9deed787" name="Changes" comment="04.04.2024">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/spring_dm/lesson4_profile_annotation/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/spring_dm/lesson4_profile_annotation/MainClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/spring_dm/theory/Spring аннотации.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/spring_dm/theory/Spring аннотации.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/spring_dm/lesson2_Dependency_injection_annotations/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/spring_dm/lesson2_Dependency_injection_annotations/MainClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +70,7 @@
       <recent name="com.spring_dm.DI_setter_xml" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.spring_dm.lesson5_configuration_bean_lazy.MainClass">
+  <component name="RunManager" selected="Application.com.spring_dm.lesson4_profile_annotation.MainClass">
     <configuration name="InitClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.spring_dm.lesson4_profile_annotation.init.InitClass" />
       <module name="Spring_dm" />
@@ -139,8 +138,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.com.spring_dm.lesson5_configuration_bean_lazy.MainClass" />
         <item itemvalue="Application.com.spring_dm.lesson4_profile_annotation.MainClass" />
+        <item itemvalue="Application.com.spring_dm.lesson5_configuration_bean_lazy.MainClass" />
         <item itemvalue="Application.InitClass" />
         <item itemvalue="Application.MainClass" />
         <item itemvalue="Application.com.spring_dm.lesson2_Dependency_injection_annotations.MainClass" />
@@ -194,5 +193,16 @@
     <MESSAGE value="add lesson4" />
     <MESSAGE value="04.04.2024" />
     <option name="LAST_COMMIT_MESSAGE" value="04.04.2024" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/6.1.5/spring-context-6.1.5.jar!/org/springframework/context/support/AbstractApplicationContext.class</url>
+          <line>159</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

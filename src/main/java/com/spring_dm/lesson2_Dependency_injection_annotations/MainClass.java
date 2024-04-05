@@ -5,7 +5,7 @@ import org.springframework.context.annotation.AnnotationConfigApplicationContext
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
-@ComponentScan("com.spring_dm.lesson3_Dependency_injection_annotations")
+@ComponentScan("com.spring_dm.lesson2_Dependency_injection_annotations")
 public class MainClass {
     public static void main(String[] args) {
         //TestComponentScanXML();

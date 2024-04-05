@@ -2,11 +2,7 @@ package com.spring_dm.lesson4_profile_annotation;
 
 import com.spring_dm.lesson4_profile_annotation.controller.HelloController;
 import org.springframework.beans.factory.annotation.Value;
-import org.springframework.context.ApplicationContext;
-import org.springframework.context.annotation.AnnotationConfigApplicationContext;
-import org.springframework.context.annotation.ComponentScan;
-import org.springframework.context.annotation.Configuration;
-import org.springframework.context.annotation.PropertySource;
+import org.springframework.context.annotation.*;
 
 @Configuration
 @ComponentScan
@@ -23,6 +19,7 @@ public class MainClass {
             5. Обновляем - refresh().
             6. Как обычно через контекст получаем нужные объекты(бины).
          */
+
         AnnotationConfigApplicationContext ctx = new AnnotationConfigApplicationContext();
         ctx.getEnvironment().setActiveProfiles("span"); // То самое имя профиля который указан в классе с аннотацией @Profile.
         ctx.register(MainClass.class);

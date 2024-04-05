@@ -4,29 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0beff5de-e6e5-4833-bab8-3f8f9deed787" name="Changes" comment="add lesson4">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring_dm/lesson2_Dependency_injection_annotations/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring_dm/lesson3_bean_factory/MainClass.java" afterDir="false" />
+    <list default="true" id="0beff5de-e6e5-4833-bab8-3f8f9deed787" name="Changes" comment="04.04.2024">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/spring_dm/lesson1_setter_constructor_Dependency_Injection_xml/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/spring_dm/lesson1_setter_constructor_Dependency_Injection_xml/MainClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/spring_dm/lesson2_Dependency_Lookup_Dependency_Injection/Типы инверсии управления.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/spring_dm/theory/Типы инверсии управления(Dependency Lookup &amp; Dependency Injection).txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/spring_dm/lesson3_Dependency_injection_annotations/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/spring_dm/lesson2_Dependency_injection_annotations/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/spring_dm/lesson3_Dependency_injection_annotations/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/spring_dm/lesson2_Dependency_injection_annotations/Engine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/spring_dm/lesson3_Dependency_injection_annotations/EngineV12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/spring_dm/lesson2_Dependency_injection_annotations/EngineV12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/spring_dm/lesson3_Dependency_injection_annotations/EngineV6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/spring_dm/lesson2_Dependency_injection_annotations/EngineV6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/spring_dm/lesson3_Dependency_injection_annotations/MainClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/spring_dm/lesson3_Dependency_injection_annotations/info/Spring аннотации.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/spring_dm/theory/Spring аннотации.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/spring_dm/lesson4_bean_factory/MainClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/spring_dm/lesson4_bean_factory/TestBeanFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/spring_dm/lesson3_bean_factory/TestBeanFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/spring_dm/lesson4_bean_factory/info/beanFactory.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/spring_dm/theory/beanFactory.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/lesson1_Context_setter_constructor_xml/Context_example_constructor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/lesson1_Context_setter_constructor_xml/Context_example_constructor.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/lesson1_Context_setter_constructor_xml/Context_example_setters.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/lesson1_Context_setter_constructor_xml/Context_example_setters.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/lesson1_Context_setter_constructor_xml/Context_example_setters_chemaP.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/lesson1_Context_setter_constructor_xml/Context_example_setters_chemaP.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/lesson1_Context_setter_constructor_xml/car.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/lesson1_Context_setter_constructor_xml/car.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/lesson3_annotations/Context_component_scan.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/lesson2_annotations/Context_component_scan.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/lesson3_annotations/car.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/lesson2_annotations/car.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/lesson4_bean_factory/configBeanFactory.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/lesson3_bean_factory/configBeanFactory.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/spring_dm/lesson4_profile_annotation/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/spring_dm/lesson4_profile_annotation/MainClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/spring_dm/theory/Spring аннотации.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/spring_dm/theory/Spring аннотации.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,11 +35,14 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AnoTest.executor": "Run",
+    "Application.InitClass.executor": "Run",
     "Application.MainClass.executor": "Run",
     "Application.TestClass.executor": "Run",
     "Application.com.spring_dm.lesson3_Dependency_injection_annotations.MainClass.executor": "Run",
     "Application.com.spring_dm.lesson4_bean_factory.MainClass.executor": "Run",
-    "Application.com.spring_dm.lesson4_profile_annotation.MainClass.executor": "Run",
+    "Application.com.spring_dm.lesson4_profile_annotation.MainClass.executor": "Debug",
+    "Application.com.spring_dm.lesson5_configuration_bean_lazy.MainClass.executor": "Run",
+    "Application.com.spring_dm.lesson6_configuration_bean_lazy.MainClass.executor": "Run",
     "Application.com.spring_dm.test.MainClass.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -87,13 +71,13 @@
       <recent name="com.spring_dm.DI_setter_xml" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MainClass">
-    <configuration name="AnoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.spring_dm.test.AnoTest" />
+  <component name="RunManager" selected="Application.com.spring_dm.lesson5_configuration_bean_lazy.MainClass">
+    <configuration name="InitClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.spring_dm.lesson4_profile_annotation.init.InitClass" />
       <module name="Spring_dm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.spring_dm.test.*" />
+          <option name="PATTERN" value="com.spring_dm.lesson4_profile_annotation.init.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,19 +91,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.spring_dm.lesson1_setter_constructor_Dependency_Injection_xml.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.spring_dm.lesson3_Dependency_injection_annotations.test.TestClass" />
-      <module name="Spring_dm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.spring_dm.lesson3_Dependency_injection_annotations.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,13 +124,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.spring_dm.lesson5_configuration_bean_lazy.MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.spring_dm.lesson5_configuration_bean_lazy.MainClass" />
+      <module name="Spring_dm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.spring_dm.lesson5_configuration_bean_lazy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MainClass" />
+        <item itemvalue="Application.com.spring_dm.lesson5_configuration_bean_lazy.MainClass" />
         <item itemvalue="Application.com.spring_dm.lesson4_profile_annotation.MainClass" />
+        <item itemvalue="Application.InitClass" />
+        <item itemvalue="Application.MainClass" />
         <item itemvalue="Application.com.spring_dm.lesson2_Dependency_injection_annotations.MainClass" />
-        <item itemvalue="Application.TestClass" />
-        <item itemvalue="Application.AnoTest" />
       </list>
     </recent_temporary>
   </component>
@@ -187,11 +171,28 @@
       <option name="project" value="LOCAL" />
       <updated>1712143958644</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="04.04.2024">
+      <option name="closed" value="true" />
+      <created>1712235637495</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712235637495</updated>
+    </task>
+    <task id="LOCAL-00003" summary="04.04.2024">
+      <option name="closed" value="true" />
+      <created>1712235840812</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1712235840812</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add lesson4" />
-    <option name="LAST_COMMIT_MESSAGE" value="add lesson4" />
+    <MESSAGE value="04.04.2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="04.04.2024" />
   </component>
 </project>

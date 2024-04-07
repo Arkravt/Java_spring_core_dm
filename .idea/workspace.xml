@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0beff5de-e6e5-4833-bab8-3f8f9deed787" name="Changes" comment="04.04.2024">
+    <list default="true" id="0beff5de-e6e5-4833-bab8-3f8f9deed787" name="Changes" comment="05.04.2024">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/spring_dm/lesson2_Dependency_injection_annotations/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/spring_dm/lesson2_Dependency_injection_annotations/MainClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/spring_dm/lesson6_collections_map_list_set_props/CollectionsTestAnnotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/spring_dm/lesson6_collections_map_list_set_props/CollectionsTestAnnotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/spring_dm/lesson6_collections_map_list_set_props/CollectionsTestXml.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/spring_dm/lesson6_collections_map_list_set_props/CollectionsTestXml.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/spring_dm/lesson6_collections_map_list_set_props/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/spring_dm/lesson6_collections_map_list_set_props/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/spring_dm/lesson6_collections_map_list_set_props/TestBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/spring_dm/lesson6_collections_map_list_set_props/TestBean.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,26 +34,26 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.AnoTest.executor": "Run",
-    "Application.InitClass.executor": "Run",
-    "Application.MainClass.executor": "Run",
-    "Application.TestClass.executor": "Run",
-    "Application.com.spring_dm.lesson3_Dependency_injection_annotations.MainClass.executor": "Run",
-    "Application.com.spring_dm.lesson4_bean_factory.MainClass.executor": "Run",
-    "Application.com.spring_dm.lesson4_profile_annotation.MainClass.executor": "Debug",
-    "Application.com.spring_dm.lesson5_configuration_bean_lazy.MainClass.executor": "Run",
-    "Application.com.spring_dm.lesson6_configuration_bean_lazy.MainClass.executor": "Run",
-    "Application.com.spring_dm.test.MainClass.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Study/Java/Projects/Spring_dm/src/main/java/com/spring_dm/theory"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AnoTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InitClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.spring_dm.lesson3_Dependency_injection_annotations.MainClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.spring_dm.lesson4_bean_factory.MainClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.spring_dm.lesson4_profile_annotation.MainClass.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.com.spring_dm.lesson5_configuration_bean_lazy.MainClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.spring_dm.lesson6_configuration_bean_lazy.MainClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.spring_dm.test.MainClass.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Study/Java/Projects/Spring_dm/src/main/java/com/spring_dm/theory&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Study\Java\Projects\Spring_dm\src\main\java\com\spring_dm\theory" />
@@ -186,13 +189,22 @@
       <option name="project" value="LOCAL" />
       <updated>1712235840812</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="05.04.2024">
+      <option name="closed" value="true" />
+      <created>1712336033601</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1712336033601</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add lesson4" />
     <MESSAGE value="04.04.2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="04.04.2024" />
+    <MESSAGE value="05.04.2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="05.04.2024" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

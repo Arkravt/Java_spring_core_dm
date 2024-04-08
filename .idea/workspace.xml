@@ -6,12 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="0beff5de-e6e5-4833-bab8-3f8f9deed787" name="Changes" comment="05.04.2024">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/spring_dm/lesson6_collections_map_list_set_props/CollectionsTestAnnotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/spring_dm/lesson6_collections_map_list_set_props/CollectionsTestAnnotation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/spring_dm/lesson6_collections_map_list_set_props/CollectionsTestXml.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/spring_dm/lesson6_collections_map_list_set_props/CollectionsTestXml.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/spring_dm/lesson6_collections_map_list_set_props/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/spring_dm/lesson6_collections_map_list_set_props/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/spring_dm/lesson6_collections_map_list_set_props/TestBean.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/lesson6_collections_map_list_set_props/app-context-annotation.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/lesson6_collections_map_list_set_props/app-context-annotation.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/lesson6_collections_map_list_set_props/app-context-xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/lesson6_collections_map_list_set_props/app-context-xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/spring_dm/lesson7_initMethod_InitializingBean_PostConstruct_destroyMethod_DisposableBean/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/spring_dm/lesson7_initMethod_InitializingBean_PostConstruct_destroyMethod_DisposableBean/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/spring_dm/theory/Обратный вызов инициализации (init-method, InitializingBean, @PostConstruct).txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/spring_dm/theory/Обратный вызов инициализации,  деструктуризации (init-method, InitializingBean, @PostConstruct, destroy-method, DisposableBean).txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +46,7 @@
     "Application.com.spring_dm.lesson5_configuration_bean_lazy.MainClass.executor": "Run",
     "Application.com.spring_dm.lesson6_configuration_bean_lazy.MainClass.executor": "Run",
     "Application.com.spring_dm.lesson7_initMethod_InitializingBean_PostConstruct.Main.executor": "Run",
-    "Application.com.spring_dm.lesson7_initMethod_InitializingBean_PostConstruct_destroyMethod_DisposableBean.Main.executor": "Debug",
+    "Application.com.spring_dm.lesson7_initMethod_InitializingBean_PostConstruct_destroyMethod_DisposableBean.Main.executor": "Run",
     "Application.com.spring_dm.test.MainClass.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -218,6 +215,11 @@
           <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/6.1.5/spring-context-6.1.5.jar!/org/springframework/context/support/AbstractApplicationContext.class</url>
           <line>159</line>
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/spring_dm/lesson7_initMethod_InitializingBean_PostConstruct_destroyMethod_DisposableBean/Main.java</url>
+          <line>90</line>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

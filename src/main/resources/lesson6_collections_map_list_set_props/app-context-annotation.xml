@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:util="http://www.springframework.org/schema/util"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+       http://www.springframework.org/schema/beans/spring-beans.xsd
+       http://www.springframework.org/schema/context
+       http://www.springframework.org/schema/context/spring-context.xsd
+       http://www.springframework.org/schema/util
+       http://www.springframework.org/schema/util/spring-util.xsd">
+
+    <context:annotation-config/>
+    <context:component-scan base-package="com.spring_dm.lesson6_collections_map_list_set_props"/>
+
+    <!--    MAP-->
+    <util:map id="map" map-class="java.util.HashMap">
+        <entry key="Value_1">
+            <value>Hi</value>
+        </entry>
+        <entry key="Value_2">
+            <value>Java</value>
+        </entry>
+    </util:map>
+
+    <!--    PROPERTY-->
+    <util:properties id="props">
+        <prop key="firstProps">Spring Core</prop>
+        <prop key="secondProps">Spring MVC</prop>
+    </util:properties>
+
+    <!--    SET-->
+    <util:set id="set">
+        <value>Spring Data</value>
+        <value>Spring Security</value>
+    </util:set>
+
+    <!--    LIST-->
+    <util:list id="list">
+        <value>Spark</value>
+        <value>JUnit</value>
+    </util:list>
+</beans>

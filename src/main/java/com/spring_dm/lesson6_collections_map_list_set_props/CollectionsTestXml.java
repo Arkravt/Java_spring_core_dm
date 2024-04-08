@@ -7,16 +7,16 @@ import java.util.Set;
 
 public class CollectionsTestXml {
 
-    private Map<String, String> map;
+    private Map<String, Object> map;
     private Properties props;
     private Set<String> set;
     private List<String> list;
 
-    public Map<String, String> getMap() {
+    public Map<String, Object> getMap() {
         return map;
     }
 
-    public void setMap(Map<String, String> map) {
+    public void setMap(Map<String, Object> map) {
         this.map = map;
     }
 
@@ -45,8 +45,28 @@ public class CollectionsTestXml {
     }
 
     public void displayInfo() {
+        System.out.println("Map content:");
+        for (Map.Entry<String, Object> entry : map.entrySet()) {
+            System.out.println("Key: " + entry.getKey() + " - Value: " + entry.getValue());
+        }
+        System.out.println("____________________________________________________________________________");
 
+        System.out.println("Property content:");
+        for (Map.Entry<Object, Object> entry : props.entrySet()) {
+            System.out.println("Key: " + entry.getKey() + " - Value: " + entry.getValue());
+        }
+        System.out.println("____________________________________________________________________________");
 
+        System.out.println("Set content:");
+        for (String s : set) {
+            System.out.println("Value: " + s);
+        }
+        System.out.println("____________________________________________________________________________");
 
+        System.out.println("List content:");
+        for (String s : list) {
+            System.out.println("Value: " + s);
+        }
+        System.out.println("____________________________________________________________________________");
     }
 }

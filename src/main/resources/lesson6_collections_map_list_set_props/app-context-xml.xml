@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+       http://www.springframework.org/schema/beans/spring-beans.xsd
+       http://www.springframework.org/schema/context
+       http://www.springframework.org/schema/context/spring-context.xsd">
+
+    <bean id="collectionsTest" class="com.spring_dm.lesson6_collections_map_list_set_props.CollectionsTestXml">
+        <property name="map">
+            <map>
+                <entry key="Value_1">
+                    <value>Hello!!!</value>
+                </entry>
+                <entry key="Value_2">
+                    <value>World</value>
+                </entry>
+            </map>
+        </property>
+        <property name="props">
+            <props>
+                <prop key="firstProps">Java!!!</prop>
+                <prop key="secondProps">Forever</prop>
+            </props>
+        </property>
+        <property name="set">
+            <set>
+                <value>Spring</value>
+                <value>Kafka</value>
+            </set>
+        </property>
+        <property name="list">
+            <list>
+                <value>spark</value>
+                <value>JUnit</value>
+            </list>
+        </property>
+    </bean>
+
+</beans>

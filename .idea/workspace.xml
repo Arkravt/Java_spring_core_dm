@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0beff5de-e6e5-4833-bab8-3f8f9deed787" name="Changes" comment="08.04.2024">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring_dm/lesson8_aop/AopTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring_dm/lesson8_aop/MyLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring_dm/lesson8_aop/StudentJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring_dm/theory/aop.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +38,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AnoTest.executor": "Run",
+    "Application.AopTest.executor": "Debug",
     "Application.InitClass.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MainClass.executor": "Run",
@@ -72,13 +78,13 @@
       <recent name="com.spring_dm.DI_setter_xml" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.spring_dm.lesson7_initMethod_InitializingBean_PostConstruct_destroyMethod_DisposableBean.Main">
-    <configuration name="InitClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.spring_dm.lesson4_profile_annotation.init.InitClass" />
+  <component name="RunManager" selected="Application.AopTest">
+    <configuration name="AopTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.spring_dm.lesson8_aop.AopTest" />
       <module name="Spring_dm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.spring_dm.lesson4_profile_annotation.init.*" />
+          <option name="PATTERN" value="com.spring_dm.lesson8_aop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AopTest" />
         <item itemvalue="Application.com.spring_dm.lesson7_initMethod_InitializingBean_PostConstruct_destroyMethod_DisposableBean.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.com.spring_dm.lesson4_profile_annotation.MainClass" />
         <item itemvalue="Application.com.spring_dm.lesson5_configuration_bean_lazy.MainClass" />
-        <item itemvalue="Application.InitClass" />
       </list>
     </recent_temporary>
   </component>
